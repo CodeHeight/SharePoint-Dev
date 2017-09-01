@@ -1,0 +1,7 @@
+{
+    "server": {
+        "baseDir": "./temp/deploy"
+    },
+    "https": true,
+    "port": "443"
+}
